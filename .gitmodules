@@ -1,0 +1,3 @@
+[submodule "submodules/stable_diffusion.openvino"]
+	path = submodules/stable_diffusion.openvino
+	url = https://github.com/Drake53/stable_diffusion.openvino
